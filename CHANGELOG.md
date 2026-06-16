@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-06-16)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1e89f0c`](https://github.com/stdlib-js/stdlib/commit/1e89f0c654aad32d0a040444b42edf49bde0b079) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`5bc6fd8`](https://github.com/stdlib-js/stdlib/commit/5bc6fd859d57bf2408ab4fd8459389ae07e9a253) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`6b97f56`](https://github.com/stdlib-js/stdlib/commit/6b97f569bd1dbf7f00d80d636404afbc43a53c8c) - **feat:** add `stats/base/ndarray/snanmskmidrange` [(#9536)](https://github.com/stdlib-js/stdlib/pull/9536) _(by Sachin Pangal, Philipp Burckhardt, stdlib-bot)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Sachin Pangal
 
